@@ -1,13 +1,15 @@
 # Resilience of Criminogenic systems during COVID-19
 ## China
 
-List[
+```
 Crime: Theft from commercial places
 Period: 
 City: anonymous
-]
+```
+
 ## Results
 A 64 per cent reduction in crime was found in the studied city (China) during an 83-day period, before daily crime levels bounced back to higher than expected values.
+
 ![Image](./China_timeseries_commercial_theft.png)
 
 ### Publications
