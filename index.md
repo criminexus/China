@@ -2,9 +2,9 @@
 ## China
 
 ```
-*Crime:* Theft from commercial places
-*Period:* 
-***City:*** anonymous
+Crime: Theft from commercial places
+Period: 
+City: anonymous
 ```
 
 ## Results
