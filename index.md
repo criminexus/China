@@ -5,7 +5,7 @@
 
 ### Projects
 
-![Image](./China/China_timeseries.png)
+![Image](./China/China_timeseries_commercial_theft.png)
 
 ### Publications
 
