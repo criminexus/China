@@ -4,10 +4,6 @@
   
 
 ### Projects
-![Image](Root/China/China_timeseries_commercial_theft.png)
-![Image](../../../China_timeseries_commercial_theft.png)
-![Image](../../China_timeseries_commercial_theft.png)
-![Image](../China_timeseries_commercial_theft.png)
 ![Image](./China_timeseries_commercial_theft.png)
 
 ### Publications
@@ -18,10 +14,7 @@ Borrion, H., Kurland, J., Tilley, N., & Chen, P. (2020). Measuring the resilienc
 
 ### Collaborators
 
--Dr Justin Kurland
--Prof Nick Tilley
--Dr Peng Chen
--Ms Juliana Quintero Gomez
+Dr Justin Kurland,  Prof Nick Tilley, Dr Peng Chen
 
 
 ### Contact
